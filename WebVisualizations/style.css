@@ -1,0 +1,77 @@
+body{
+  background-color: rgb(242, 242, 242);
+}
+
+h1
+{
+  color: teal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+h2
+{
+  color: teal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+.summary-image{
+  width: 200px;
+  float: left;
+  }
+
+.small-image{
+  width: 150px;
+
+  }
+
+.navbar-links{
+  float: right;
+}
+
+.navbar-brand{
+  background-color: teal;
+  padding: = 6px;
+  font-family: Georgia, 'Times New Roman', Times, Serif
+  font-weight: bold;
+  color: white
+}
+
+.viz-info{
+  background-color: white;
+  padding: 16px;
+  text-align: justify;
+}
+#content-container{
+  margin-top: 48px;
+  visibility: visible;
+}
+
+#data-table-container{ 
+ background-color: white;
+  margin-top: 48px;
+}
+
+.max-temp-image{
+  width: 150px
+}
+.large-image{
+  width: 500px;
+
+  }
+
+.image-info{
+  margin: 40px;
+  
+}
+.viz-info1{
+  background-color: white;
+}
+
+.medium-image{
+  background-color: white;
+  width: 100px;
+  margin: 40px;
+  padding: 16px;
+}
